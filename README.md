@@ -260,7 +260,7 @@ Hingga saat ini belum ada keputusan akhir yang menunjukkan adanya kesalahan tekn
 ### Integritas
   Dalam hal integritas, Tesla tampak tidak selaras dengan nama fitur yang digunakan dibandingkan dengan kemampuan sebenarnya sistem. Meskipun masih di Level 2, menyebut fitur "Full Self-Driving" merupakan bentuk ketidakjujuran yang merusak integritas perusahaan dan engineer yang terlibat dalam pengembangannya.
 ### Kepedulian
-    Dari sisi kepedulian, sebelum fitur dirilis ke pasar keselamatan pengguna harus menjadi prioritas utama daripada perbaikan belakangan setelah muncul korban. Sejak awal, respons Tesla terhadap tekanan dari NHTSA menunjukkan kepedulian yang sifatnya reaktif, bukan proaktif.
+  Dari sisi kepedulian, sebelum fitur dirilis ke pasar keselamatan pengguna harus menjadi prioritas utama daripada perbaikan belakangan setelah muncul korban. Sejak awal, respons Tesla terhadap tekanan dari NHTSA menunjukkan kepedulian yang sifatnya reaktif, bukan proaktif.
 ### Harmonis
   Dari sisi harmonis, ada ketegangan yang tidak terkontrol antara kepentingan bisnis Tesla dan keselamatan pengguna jalan; proses pengembangan yang lebih hati-hati seharusnya memperbaikinya.
 ### Kolaboratif
