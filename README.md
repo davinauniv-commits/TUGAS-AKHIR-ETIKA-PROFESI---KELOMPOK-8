@@ -57,8 +57,8 @@ Analisis dilakukan menggunakan teori etika, kode etik profesi ACM dan IEEE, nila
 
 # Daftar Isi
 
-- BAB I. Kronologi dan Konteks
-- BAB II. Fakta Kunci dan Catatan Transparansi
+- BAB I Kronologi dan Konteks
+- BAB II Fakta Kunci dan Catatan Transparansi
 - BAB III Pemetaan Pemangku Kepentingan
 - BAB IV Analisis Empat Teori Etika
 - BAB V Lensa Pancasila
