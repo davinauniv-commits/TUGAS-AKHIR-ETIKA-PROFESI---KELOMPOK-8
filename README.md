@@ -89,27 +89,42 @@ Analisis dilakukan menggunakan teori etika, kode etik profesi ACM dan IEEE, nila
 
 ## 1.1 Latar Belakang
 
-Tesla, Inc. adalah perusahaan kendaraan asal Amerika Serikat yang didirikan pada tahun 2003 oleh Martin Eberhard dan Marc Tarpenning. Tesla dikenal sebagai salah satu pelopor inovasi mobil listrik serta penerapan teknologi kecerdasan buatan di sektor otomotif.
+Tesla, Inc. adalah sebuah perusahaan kendaraan yang berasal dari Amerika Serikat dan didirikan pada tahun 2003 oleh Martin Eberhard dan Marc Tarpenning. Tesla dikenal sebagai salah satu perusahaan terdepan dalam inovasi mobil listrik serta penerapan teknologi kecerdasan buatan di sektor otomotif. Salah satu inovasi utama Tesla adalah fitur Autopilot dan Full Self-Driving (FSD) yang merupakan sistem Advanced Driver Assistance System (ADAS). Sistem ini dirancang untuk membantu pengemudi melalui berbagai fitur, seperti:
+- Traffic-Aware Cruise Control
+- Autosteer
+- Automatic Emergency Braking
+- Automatic Lane Change
+- Traffic Sign Recognition
+- Automatic Parking Assistance
+Meskipun memiliki kemampuan yang cukup canggih, menurut standar Society of Automotive Engineers (SAE), Autopilot dan Full Self-Driving masih berada pada Level 2 Driving Automation. Artinya, pengemudi tetap bertanggung jawab penuh terhadap pengendalian kendaraan dan harus selalu siap mengambil alih kendali kapan pun diperlukan.
 
-Salah satu inovasi Tesla adalah **Autopilot** dan **Full Self-Driving (FSD)**, yaitu sistem Bantuan Pengemudi Canggih yang dirancang untuk membantu pengemudi melalui berbagai fitur seperti **Traffic-Aware Cruise Control**, **Autosteer**, **Automatic Emergency Braking**, berpindah jalur otomatis, mengenali tanda lalu lintas, serta membantu proses parkir. Meskipun memiliki berbagai fitur canggih, menurut **Society of Automotive Engineers (SAE)** sistem ini masih berada pada **Level 2 Automasi Berkendara**, sehingga pengemudi tetap bertanggung jawab penuh terhadap pengendalian kendaraan.
+Kasus Tesla Autopilot menjadi salah satu contoh penting dalam pembahasan etika profesi karena berbagai insiden yang melibatkan kendaraan Tesla saat menggunakan Autopilot maupun Full Self-Driving menimbulkan pertanyaan mengenai keamanan sistem, tanggung jawab perusahaan, serta perilaku pengguna dalam memanfaatkan teknologi tersebut. Kondisi ini mendorong National Highway Traffic Safety Administration (NHTSA) untuk melakukan penyelidikan guna menilai apakah sistem Autopilot telah memenuhi standar keselamatan yang berlaku.
 
-Kasus Tesla Autopilot menjadi contoh penting dalam pembahasan rekayasa perangkat lunak dan etika profesi karena berbagai insiden yang melibatkan kendaraan Tesla menimbulkan pertanyaan mengenai keamanan sistem, tanggung jawab perusahaan, serta perilaku pengguna. Kasus ini juga menunjukkan bahwa pengembangan perangkat lunak tidak hanya berfokus pada inovasi, tetapi juga harus mengutamakan keselamatan pengguna, keterbukaan informasi, serta tanggung jawab profesional. Oleh karena itu, setiap proses pengembangan, pengujian, hingga penerapan sistem harus dilakukan secara teliti agar risiko terhadap keselamatan pengguna dapat diminimalkan.
+Kasus ini juga menunjukkan bahwa pengembangan perangkat lunak tidak hanya berfokus pada inovasi teknologi, tetapi juga harus memperhatikan keselamatan pengguna, transparansi informasi, serta tanggung jawab profesional. Pada sistem yang berkaitan langsung dengan keselamatan manusia, setiap proses mulai dari perancangan, pengujian, hingga implementasi harus dilakukan secara cermat agar risiko yang dapat membahayakan pengguna dapat diminimalkan.
+
 
 ### 1.2 Kronologi Kejadian
 
-Penyelidikan mengenai Tesla Autopilot dimulai setelah serangkaian kecelakaan yang terjadi di berbagai wilayah Amerika Serikat. Salah satu peristiwa yang paling mendapat perhatian terjadi pada tahun 2021 ketika kendaraan Tesla dengan fitur Autopilot menabrak kendaraan darurat yang sedang berhenti di tepi jalan. Insiden serupa juga terjadi di beberapa negara bagian lainnya, seperti Florida, California, Michigan, dan Utah.
+Penyelidikan terhadap Tesla Autopilot bermula dari serangkaian kecelakaan yang terjadi di berbagai wilayah Amerika Serikat. Salah satu kejadian yang paling mendapat perhatian terjadi pada tahun 2021 ketika sebuah kendaraan Tesla yang menggunakan fitur Autopilot menabrak kendaraan darurat yang sedang berhenti di tepi jalan. Insiden serupa juga dilaporkan terjadi di beberapa negara bagian seperti Florida, California, Michigan, dan Utah.
 
-Pada **Agustus 2021**, **National Highway Traffic Safety Administration (NHTSA)** secara resmi memulai penyelidikan terhadap sistem Autopilot Tesla dengan mengevaluasi laporan kecelakaan, data kendaraan, serta cara kerja sistem untuk mengetahui apakah terdapat kelemahan dalam mendeteksi kendaraan yang berhenti dan apakah sistem pemantauan pengemudi telah bekerja secara efektif.
+Pada bulan Agustus 2021, National Highway Traffic Safety Administration (NHTSA) secara resmi membuka investigasi terhadap sistem Autopilot Tesla. Penyelidikan dilakukan dengan mengevaluasi laporan kecelakaan, data kendaraan, serta cara kerja sistem untuk mengetahui apakah terdapat kelemahan dalam mendeteksi kendaraan yang berhenti dan apakah sistem pemantauan pengemudi telah bekerja secara efektif.
 
-Hasil penyelidikan menunjukkan bahwa pada beberapa kasus pengemudi terlalu mengandalkan sistem Autopilot, sementara mekanisme pemantauan pengemudi dinilai belum cukup efektif. Sebagai tindak lanjut, pada **Desember 2023** Tesla melakukan pembaruan perangkat lunak terhadap lebih dari dua juta kendaraan untuk meningkatkan sistem pemantauan pengemudi dan membatasi penggunaan Autopilot pada kondisi tertentu. Hingga tahun **2025**, penyelidikan masih berlanjut dengan fokus pada kemampuan sistem **Full Self-Driving (FSD)** dalam menghadapi berbagai kondisi jalan, cuaca, dan visibilitas.
+Hasil investigasi menunjukkan bahwa pada beberapa kasus pengemudi terlalu bergantung pada sistem Autopilot, sementara mekanisme pemantauan pengemudi dinilai belum cukup efektif untuk memastikan perhatian pengemudi tetap terjaga selama kendaraan beroperasi.
+
+Sebagai tindak lanjut, pada Desember 2023 Tesla melakukan software recall terhadap lebih dari dua juta kendaraan melalui pembaruan perangkat lunak. Pembaruan ini bertujuan meningkatkan sistem pemantauan pengemudi, memperkuat peringatan ketika perhatian pengemudi menurun, serta membatasi penggunaan Autopilot pada kondisi tertentu.
+
+Pada tahun 2024, NHTSA kembali mengevaluasi efektivitas pembaruan tersebut setelah masih ditemukan beberapa kecelakaan yang melibatkan kendaraan Tesla. Hingga 2025, investigasi masih terus berlanjut dengan fokus pada kemampuan sistem Autopilot dan Full Self-Driving dalam menghadapi kondisi cuaca buruk, visibilitas rendah, serta kemampuan mengenali berbagai objek di sekitar kendaraan.
+
 
 ### 1.3 Konteks Teknis
 
-Autopilot dan **Full Self-Driving (FSD)** bekerja dengan memanfaatkan kamera, sensor kendaraan, GPS, serta kecerdasan buatan. Data dari kamera diproses menggunakan algoritma *Machine Learning* untuk mengenali kendaraan lain, pejalan kaki, marka jalan, lampu lalu lintas, dan berbagai objek di sekitar kendaraan. Berdasarkan data tersebut, sistem dapat membantu mengendalikan arah kendaraan, mengatur kecepatan, melakukan pengereman otomatis, serta menjaga kendaraan tetap berada di jalur yang benar.
+Autopilot dan Full Self-Driving bekerja dengan memanfaatkan kombinasi kamera, sensor kendaraan, GPS, serta teknologi kecerdasan buatan (Artificial Intelligence). Data yang diperoleh dari kamera kemudian diproses menggunakan algoritma Machine Learning untuk mengenali kendaraan lain, pejalan kaki, marka jalan, lampu lalu lintas, serta berbagai objek di sekitar kendaraan.
 
-Pada versi terbaru, Tesla menggunakan pendekatan **Tesla Vision** yang lebih mengandalkan kamera dibandingkan radar. Meskipun menggunakan teknologi modern, Autopilot dan FSD masih termasuk dalam **SAE Level 2 Driving Automation**, sehingga pengemudi tetap harus memperhatikan kondisi jalan dan siap mengambil alih kendali kapan saja.
+Berdasarkan hasil pemrosesan tersebut, sistem mampu membantu pengemudi dalam mengendalikan arah kendaraan, mengatur kecepatan, melakukan pengereman otomatis, dan menjaga kendaraan tetap berada di jalur yang benar. Pada versi terbaru, Tesla menggunakan pendekatan **Tesla Vision**, yaitu sistem yang lebih mengandalkan kamera dibandingkan radar untuk memahami kondisi lingkungan sekitar.
 
-Menurut hasil penyelidikan **NHTSA**, terdapat beberapa faktor yang diduga menjadi penyebab kecelakaan, seperti keterbatasan sistem dalam mengenali kendaraan darurat pada kondisi tertentu, kurang optimalnya sistem pemantauan perhatian pengemudi, serta kecenderungan sebagian pengguna yang terlalu bergantung pada Autopilot. Perpaduan antara keterbatasan teknologi dan faktor manusia menjadi fokus utama dalam penyelidikan.
+Walaupun telah menggunakan teknologi modern, Autopilot dan Full Self-Driving belum mampu mengemudi secara mandiri dalam seluruh kondisi. Kedua sistem masih termasuk SAE Level 2 Driving Automation, sehingga pengemudi tetap wajib memperhatikan kondisi jalan dan siap mengambil alih kendali kapan saja.
+
+Menurut hasil investigasi NHTSA, terdapat beberapa faktor yang diduga berkontribusi terhadap kecelakaan, antara lain keterbatasan sistem dalam mengenali kendaraan darurat pada kondisi cuaca dan pencahayaan tertentu, kurang optimalnya sistem pemantauan perhatian pengemudi, serta kecenderungan sebagian pengguna yang terlalu bergantung pada kemampuan Autopilot. Kombinasi antara keterbatasan teknologi dan faktor manusia inilah yang menjadi fokus utama dalam penyelidikan.
 
 ---
 
@@ -117,31 +132,35 @@ Menurut hasil penyelidikan **NHTSA**, terdapat beberapa faktor yang diduga menja
 
 ## 2.1 Fakta Terverifikasi
 
-Tesla mengembangkan sistem bantuan mengemudi **Autopilot** dan **Full Self-Driving (FSD)** untuk meningkatkan kenyamanan dan keamanan berkendara. Meskipun memiliki kemampuan yang cukup maju, kedua sistem tersebut masih termasuk dalam **Level 2 Driving Automation**, sehingga pengemudi tetap harus memantau kendaraan dan siap mengambil alih kendali kapan pun diperlukan.
+Beberapa fakta yang telah dikonfirmasi berdasarkan investigasi resmi menunjukkan bahwa Tesla mengembangkan sistem bantuan mengemudi berupa Autopilot dan Full Self-Driving (FSD) untuk meningkatkan kenyamanan dan keselamatan berkendara. Meskipun demikian, kedua sistem tersebut masih dikategorikan sebagai SAE Level 2 Driving Automation, sehingga pengemudi tetap memiliki tanggung jawab penuh terhadap kendaraan.
 
-Pada **Agustus 2021**, **National Highway Traffic Safety Administration (NHTSA)** resmi memulai investigasi terhadap sistem Autopilot setelah menerima laporan mengenai beberapa kecelakaan yang melibatkan kendaraan Tesla, terutama tabrakan dengan kendaraan darurat yang berhenti di tepi jalan. Penyelidikan dilakukan untuk menilai kemampuan sistem dalam mengenali objek di jalan serta mengevaluasi efektivitas pemantauan perhatian pengemudi.
+Pada Agustus 2021, NHTSA secara resmi memulai investigasi terhadap sistem Autopilot setelah menerima laporan mengenai sejumlah kecelakaan yang melibatkan kendaraan Tesla, terutama insiden tabrakan dengan kendaraan darurat yang sedang berhenti di tepi jalan.
 
-Pada **Desember 2023**, Tesla melakukan pembaruan perangkat lunak terhadap lebih dari dua juta kendaraan untuk meningkatkan sistem pemantauan pengemudi, memperkuat peringatan saat perhatian pengemudi menurun, serta membatasi penggunaan Autopilot pada kondisi tertentu. Hingga tahun **2025**, NHTSA masih melanjutkan penyelidikan guna mengevaluasi efektivitas pembaruan tersebut.
+Selanjutnya, pada Desember 2023, Tesla melakukan software recall terhadap lebih dari dua juta kendaraan melalui pembaruan perangkat lunak yang bertujuan meningkatkan sistem pemantauan pengemudi, memperkuat peringatan ketika perhatian pengemudi menurun, serta membatasi penggunaan Autopilot dalam kondisi tertentu sesuai rekomendasi NHTSA.
+
+Hingga tahun 2025, investigasi masih terus dilakukan untuk mengevaluasi efektivitas pembaruan perangkat lunak tersebut dalam meningkatkan keselamatan pengguna.
+
 
 ## 2.2 Informasi yang Masih Dalam Investigasi
 
-Meskipun beberapa informasi telah dikonfirmasi, masih terdapat beberapa hal yang belum memperoleh keputusan akhir dari pihak regulator. Salah satunya adalah apakah seluruh kecelakaan yang melibatkan Tesla Autopilot disebabkan oleh masalah pada sistem atau dipengaruhi oleh faktor lain, seperti kondisi jalan, cuaca, maupun perilaku pengemudi.
+Walaupun beberapa fakta telah dikonfirmasi, masih terdapat sejumlah aspek yang belum memperoleh keputusan akhir dari pihak regulator. Salah satunya adalah apakah seluruh kecelakaan yang melibatkan Tesla Autopilot benar-benar disebabkan oleh kelemahan sistem atau dipengaruhi oleh faktor lain seperti kondisi jalan, cuaca, maupun perilaku pengemudi.
 
-NHTSA juga masih mengevaluasi efektivitas pembaruan perangkat lunak yang dirilis Tesla pada akhir tahun 2023 karena masih ditemukan laporan kecelakaan setelah pembaruan tersebut diterapkan. Selain itu, proses penyelidikan juga menilai apakah desain antarmuka dan sistem peringatan Tesla sudah cukup efektif untuk memastikan pengemudi tetap memperhatikan kondisi jalan saat menggunakan fitur bantuan mengemudi.
+NHTSA juga masih mengevaluasi efektivitas pembaruan perangkat lunak yang dirilis Tesla pada akhir tahun 2023 karena setelah pembaruan tersebut diterapkan masih ditemukan laporan kecelakaan yang melibatkan kendaraan Tesla.
 
-Hingga saat ini, belum ada keputusan akhir yang menyatakan adanya kesalahan teknis tertentu sebagai penyebab utama dari seluruh kecelakaan yang terjadi.
+Selain aspek teknis, regulator juga menilai apakah desain antarmuka serta sistem peringatan yang digunakan Tesla sudah cukup efektif untuk memastikan pengemudi tetap memperhatikan kondisi jalan ketika menggunakan fitur bantuan mengemudi.
 
 ## 2.3 Catatan Transparansi
 
 | Jenis Informasi | Pernyataan | Status |
 |-----------------|------------|--------|
-| **Fakta** | NHTSA memulai penyelidikan resmi terhadap Autopilot Tesla pada Agustus 2021 setelah serangkaian kecelakaan yang melibatkan kendaraan darurat. | Telah dikonfirmasi melalui laporan resmi NHTSA. |
-| **Fakta** | Tesla melakukan pembaruan perangkat lunak pada Desember 2023 terhadap lebih dari dua juta kendaraan untuk meningkatkan sistem pemantauan pengemudi. | Didukung oleh pengumuman resmi Tesla dan NHTSA. |
-| **Fakta** | Hingga tahun 2025, NHTSA masih mengevaluasi efektivitas pembaruan perangkat lunak Tesla. | Berdasarkan dokumen investigasi resmi NHTSA. |
-| **Dugaan** | Keterbatasan Autopilot dalam mengenali objek pada kondisi tertentu diduga berkontribusi terhadap kecelakaan. | Masih dalam proses investigasi. |
-| **Dugaan** | Efektivitas pembaruan perangkat lunak Tesla masih terus dievaluasi. | Masih menjadi bagian dari penyelidikan NHTSA. |
-| **Opini** | Penyebutan **"Full Self-Driving"** dinilai dapat menimbulkan persepsi bahwa kendaraan mampu beroperasi secara mandiri. | Merupakan pendapat berbagai pihak, bukan keputusan resmi regulator. |
-| **Opini** | Strategi komunikasi Tesla mengenai kemampuan Autopilot dinilai perlu dibuat lebih jelas agar pengguna memahami batasan sistem. | Merupakan pandangan yang belum ditetapkan sebagai fakta oleh regulator. |
+| Fakta | NHTSA memulai penyelidikan resmi terhadap fitur Autopilot Tesla pada Agustus 2021 setelah terjadi sejumlah kecelakaan yang melibatkan kendaraan Tesla dengan kendaraan darurat di Amerika Serikat. | Telah dikonfirmasi melalui laporan resmi NHTSA. |
+| Fakta | Pada Desember 2023 Tesla mengeluarkan pembaruan perangkat lunak sebagai bagian dari proses recall terhadap lebih dari dua juta kendaraan. | Didukung oleh pengumuman resmi Tesla dan NHTSA. |
+| Fakta | Hingga tahun 2025 NHTSA masih melanjutkan penyelidikan untuk mengevaluasi efektivitas pembaruan perangkat lunak Tesla. | Berdasarkan dokumen investigasi resmi NHTSA. |
+| Dugaan | Keterbatasan sistem Autopilot dalam mengenali objek pada kondisi tertentu diduga turut berkontribusi terhadap kecelakaan. | Masih dalam proses investigasi. |
+| Dugaan | Efektivitas pembaruan perangkat lunak Tesla masih terus dievaluasi. | Masih menjadi bagian dari investigasi NHTSA. |
+| Opini | Penyebutan "Full Self-Driving" dinilai dapat menimbulkan persepsi bahwa kendaraan dapat beroperasi secara mandiri. | Merupakan pendapat berbagai pihak, bukan keputusan resmi regulator. |
+| Opini | Strategi komunikasi Tesla mengenai kemampuan Autopilot dinilai perlu dibuat lebih jelas agar pengguna memahami batasan sistem. | Merupakan pandangan yang belum ditetapkan sebagai fakta oleh regulator. |
+
 
 ---
 
