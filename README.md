@@ -1,15 +1,13 @@
 # Laporan Etika Profesi Teknologi Informasi
-## Analisis Kasus Tesla Autopilot & Full Self-Driving (FSD)
 
 ---
 
-# HEADER PEMETAAN 
-
 ## Informasi Kelompok
 
-| Keterangan        | Isi |
-|-------------------|-----|
+| Keterangan | Isi |
+|------------|-----|
 | **Nama Kelompok** | Kelompok 8 |
+| **Nomor Kelompok** | 8 |
 | **Kasus** | Analisis Etika Profesi pada Kasus Tesla Autopilot & Full Self-Driving (FSD) |
 | **Fokus Analisis** | Sejumlah kecelakaan terkait Autopilot. Fokus: batas tanggung jawab engineer vs user, overclaiming kapabilitas, safety-critical software ethics |
 
@@ -19,33 +17,38 @@
 
 | No | Nama | NPM | Tugas |
 |----|------|-----|--------|
-| 1 | Nailah AlyaCalista Salsabill | 4524210075 | Pembagian Tugas |
-| 2 | Okta Yudha Ramadhan | 45242210079 | Pembagian Tugas|
-| 3 | Raudha Hafsha Aqila | 4524210123 |Pembagian Tugas |
-| 4 | Davina Arthamevia Azahra | 4524210127 | Pembagian Tugas |
-| 5 | Refani Usman | 4524210144 | Pembagian Tugas |
+| 1 | Nailah AlyaCalista Salsabill | 4524210075 | Mengerjakan Bab  1, Bab 2, Menyusun Bab 11, Serta menyusun Readme |
+| 2 | Okta Yudha Ramadhan | 45242210079 |  Mengerjakan Bab  7, Bab 8, Menyusun Bab 11, Serta menyusun Readme |
+| 3 | Raudha Hafsha Aqila | 4524210123 | Mengerjakan Bab  5, Bab 6, Menyusun Bab 11, Serta menyusun Readme |
+| 4 | Davina Arthamevia Azahra | 4524210127 |  Mengerjakan Bab  9, Bab 10, Membuat kesimpulan, dan merapihkan laporan di Readme|
+| 5 | Refani Usman | 4524210144 |  Mengerjakan Bab  3, Bab 4, Menyusun Readme, dan Merapihkan Daftar Pustaka|
 
 ---
 
-## Header Pemetaan Sub-CPMK
+## Pemetaan Sub-CPMK
 
 | Sub-CPMK | Capaian Pembelajaran | Bagian Laporan |
 |-----------|----------------------|----------------|
-| **Sub-CPMK 1** | Analisis dilema etika dengan teori filsafat moral dan kode etik profesi | BAB IV (Analisis Empat Teori Etika), BAB VI (ACM Code of Ethics & IEEE Code of Ethics) |
-| **Sub-CPMK 2** | Evaluasi kepatuhan terhadap regulasi hukum, HKI, dan standar industri | BAB VII (Analisis Regulasi dan Hukum), BAB VI (Standar ACM & IEEE), BAB IX (ISO 31000) |
-| **Sub-CPMK 3** | Analisis dampak sosial dan lingkungan dengan kerangka keberlanjutan | BAB X (Dampak terhadap Masyarakat dan Industri), BAB III (Analisis Stakeholder) |
-| **Sub-CPMK 4** | Evaluasi risiko etis menggunakan kerangka analisis risiko ISO 31000 | BAB IX (Manajemen Risiko ISO 31000 dan Opsi 4T) |
-| **Sub-CPMK 5** | Analisis potensi penyalahgunaan kewenangan, integritas, dan tindak pidana korupsi | BAB VIII (Checkpoint Integritas dan Anti Korupsi) |
-| **Sub-CPMK 7** | Perumusan strategi mitigasi risiko etika dan kontrol preventif | BAB IX (Opsi 4T), BAB X (Kontrol Preventif dan Rekomendasi) |
-| **Sub-CPMK 8** | Demonstrasi hasil investigasi dalam forum profesional | Video Presentasi YouTube (Unlisted) dan Slide Presentasi |
-| **Sub-CPMK 9** | Refleksi prinsip etika ke dalam rencana integritas karier (individu) | BAB XI (Pelajaran Utama, Refleksi, dan Kesimpulan) |
+| **Sub-CPMK 1** | Analisis dilema etika dengan teori filsafat moral dan kode etik profesi | **BAB II** – Kronologi Kasus<br>**BAB III** – Analisis Stakeholder<br>**BAB IV** – Analisis Empat Teori Etika<br>**BAB V** – Lensa Pancasila<br>**BAB VI** – ACM Code of Ethics & IEEE Code of Ethics<br>**BAB XI** – Pelajaran Utama dan Kesimpulan |
+| **Sub-CPMK 2** | Evaluasi kepatuhan terhadap regulasi hukum, HKI, dan standar industri | **BAB VI** – Kode Etik ACM & IEEE<br>**BAB VII** – Analisis Regulasi dan Hukum<br>**BAB IX** – Manajemen Risiko ISO 31000<br>**BAB X** – Rekomendasi Regulasi<br>**BAB XI** – Pelajaran bagi Regulator |
+| **Sub-CPMK 3** | Analisis dampak sosial dan lingkungan dengan kerangka keberlanjutan | **BAB III** – Analisis Stakeholder<br>**BAB IV** – Analisis Empat Teori Etika<br>**BAB V** – Lensa Pancasila<br>**BAB X** – Dampak terhadap Masyarakat dan Industri<br>**BAB XI** – Kesimpulan |
+| **Sub-CPMK 4** | Evaluasi risiko etis menggunakan kerangka analisis risiko ISO 31000 | **BAB III** – Analisis Stakeholder<br>**BAB VII** – Analisis Regulasi dan Hukum<br>**BAB IX** – Manajemen Risiko ISO 31000 dan Opsi 4T<br>**BAB X** – Kontrol Preventif |
+| **Sub-CPMK 5** | Analisis potensi penyalahgunaan kewenangan, integritas, dan tindak pidana korupsi | **BAB IV** – Analisis Empat Teori Etika<br>**BAB V** – Lensa Pancasila<br>**BAB VI** – Kode Etik Profesi<br>**BAB VIII** – Checkpoint Integritas dan Anti-Korupsi<br>**BAB XI** – Pelajaran bagi Software Engineer dan Perusahaan |
+| **Sub-CPMK 7** | Perumusan strategi mitigasi risiko etika dan kontrol preventif | **BAB VI** – Kode Etik Profesi<br>**BAB VII** – Analisis Regulasi dan Hukum<br>**BAB IX** – Opsi 4T<br>**BAB X** – Rekomendasi Teknis, Rekomendasi Regulasi, dan Kontrol Preventif<br>**BAB XI** – Pelajaran Utama |
+| **Sub-CPMK 8** | Demonstrasi hasil investigasi dalam forum profesional | **BAB I–XI** sebagai materi presentasi, **Slide Presentasi**, dan **Video Presentasi YouTube (Unlisted)** |
+| **Sub-CPMK 9** | Refleksi prinsip etika ke dalam rencana integritas karier (individu) | **BAB IV** – Analisis Empat Teori Etika<br>**BAB V** – Lensa Pancasila<br>**BAB VI** – Kode Etik Profesi<br>**BAB VIII** – Integritas Engineer<br>**BAB XI** – Pelajaran bagi Software Engineer, Perusahaan, Regulator, dan Kesimpulan |
 
 ---
 
 ## Video Presentasi
 
+<p align="center">
+  <a href="https://youtu.be/KHrq1pMlIY8?si=-lfyYw8mwP-cyeIa" target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Tonton%20Video%20Presentasi-YouTube-red?style=for-the-badge&logo=youtube" alt="Video Presentasi">
+  </a>
+</p>
 
-
+> **Status:** Unlisted (hanya dapat diakses melalui tautan).
 ---
 
 #  Deskripsi
@@ -57,19 +60,24 @@ Analisis dilakukan menggunakan teori etika, kode etik profesi ACM dan IEEE, nila
 
 # Daftar Isi
 
-- BAB I Kronologi dan Konteks
-- BAB II Fakta Kunci dan Catatan Transparansi
-- BAB III Pemetaan Pemangku Kepentingan
-- BAB IV Analisis Empat Teori Etika
-- BAB V Lensa Pancasila
-- BAB VI Kode Etik Profesi
-- BAB VII Analisis Regulasi dan Hukum
-- BAB VIII Checkpoint Integritas dan Anti Korupsi
-- BAB IX Manajemen Risiko dan Opsi 4T
-- BAB X Dampak dan Kontrol Preventif
-- BAB XI Pelajaran Utama
-- Daftar Pustaka
-
+- [📌 Deskripsi Proyek](#-deskripsi-proyek)
+- [🎯 Tujuan](#-tujuan)
+- [👥 Anggota Kelompok](#-anggota-kelompok)
+- [📖 BAB I – Pendahuluan](#-bab-i--pendahuluan)
+- [📖 BAB II – Kronologi Kasus](#-bab-ii--kronologi-kasus)
+- [📖 BAB III – Analisis Stakeholder](#-bab-iii--analisis-stakeholder)
+- [📖 BAB IV – Analisis Empat Teori Etika](#-bab-iv--analisis-empat-teori-etika)
+- [📖 BAB V – Lensa Pancasila](#-bab-v--lensa-pancasila)
+- [📖 BAB VI – Kode Etik Profesi](#-bab-vi--kode-etik-profesi)
+- [📖 BAB VII – Analisis Regulasi dan Hukum](#-bab-vii--analisis-regulasi-dan-hukum)
+- [📖 BAB VIII – Checkpoint Integritas dan Anti-Korupsi](#-bab-viii--checkpoint-integritas-dan-anti-korupsi)
+- [📖 BAB IX – Manajemen Risiko dan Opsi 4T](#-bab-ix--manajemen-risiko-dan-opsi-4t)
+- [📖 BAB X – Dampak dan Kontrol Preventif](#-bab-x--dampak-dan-kontrol-preventif)
+- [📖 BAB XI – Pelajaran Utama](#-bab-xi--pelajaran-utama)
+- [🎯 Pemetaan Sub-CPMK](#-pemetaan-sub-cpmk)
+- [🎥 Video Presentasi](#-video-presentasi)
+- [📚 Daftar Pustaka](#-daftar-pustaka)
+  
 ---
 
 # Tujuan
@@ -365,46 +373,169 @@ Tesla menikmati keuntungan finansial dan reputasi yang sangat besar dari klaim t
 
 ---
 
-# BAB IX — Manajemen Risiko
+# BAB IX — Manajemen Risiko dan Opsi 4T
 
-Menggunakan **ISO 31000:2018**
+## 9.1 Manajemen Risiko Iso 31000
+SO 31000:2018 merupakan standar internasional yang memberikan pedoman dalam mengelola risiko pada berbagai jenis organisasi. Tujuan utama manajemen risiko adalah membantu organisasi mengidentifikasi, menganalisis, mengevaluasi, serta menangani risiko agar tujuan organisasi dapat tercapai secara efektif. Dalam kasus Tesla Autopilot/Full Self-Driving (FSD), penerapan ISO 31000 penting karena sistem yang dikembangkan termasuk safety-critical system, yaitu sistem yang kegagalannya dapat mengakibatkan kerugian besar bahkan mengancam keselamatan jiwa manusia.
+Tahapan manajemen risiko yang digunakan pada analisis ini meliputi identifikasi risiko, analisis risiko, evaluasi risiko, dan perlakuan risiko (risk treatment) menggunakan strategi 4T (Treat, Tolerate, Transfer, dan Terminate).
 
-Tahapan:
+## 9.2 Identifikasi Risiko 
+Tahap pertama adalah mengidentifikasi berbagai risiko yang dapat timbul dari penggunaan sistem Tesla Autopilot/FSD.
 
-- Identifikasi Risiko
-- Analisis Risiko
-- Evaluasi Risiko
-- Opsi 4T
+| No | Risiko | Penyebab | Dampak |
+|----|---------|----------|---------|
+| 1 | Pengemudi terlalu bergantung pada Autopilot/FSD | Kurangnya pemahaman pengguna dan penggunaan nama fitur yang dapat menimbulkan persepsi seolah kendaraan dapat mengemudi sendiri | Kecelakaan lalu lintas hingga korban jiwa |
+| 2 | Sistem gagal mendeteksi objek tertentu | Keterbatasan sensor dan algoritma AI pada kondisi tertentu | Tabrakan dengan kendaraan, pejalan kaki, atau objek di jalan |
+| 3 | Kesalahan perangkat lunak (software bug) | Pembaruan sistem yang belum sepenuhnya teruji | Kesalahan pengambilan keputusan kendaraan |
+| 4 | Investigasi dan sanksi regulator | Banyaknya laporan kecelakaan yang melibatkan Autopilot | Recall kendaraan, pembatasan fitur, atau sanksi hukum |
+| 5 | Penurunan kepercayaan masyarakat | Publikasi negatif mengenai kecelakaan Tesla | Menurunnya reputasi perusahaan dan nilai investasi |
+
+Berdasarkan dari identifikasi tersebut, dapat terlihat bahwa risiko tidak hanya berasal dari teknologi, tetapi juga dari faktor manusia, proses pengembangan perangkat lunak, serta tata kelola perusahaan.
+
+## 9.3 Matriks Risiko
+Analisis risiko dilakukan dengan menilai kemungkinan terjadinya (Likelihood) dan tingkat dampak (Impact) dari setiap risiko.
+
+### Skala Penilaian
+| Tingkat | Nilai |
+|----------|-------|
+| Rendah | 1 |
+| Sedang | 2 |
+| Tinggi | 3 |
+
+| Risiko | Likelihood | Impact | Tingkat Risiko |
+|---------|-----------|--------|----------------|
+| Pengemudi terlalu bergantung pada Autopilot | 3 | 3 | Ekstrem |
+| Sistem gagal mendeteksi objek | 2 | 3 | Tinggi |
+| Software bug setelah pembaruan | 2 | 3 | Tinggi |
+| Investigasi regulator | 2 | 2 | Sedang |
+| Penurunan reputasi perusahaan | 3 | 2 | Tinggi |
+
+Dari hasil tersebut dapat terlihat bahwa risiko dengan tingkat tertinggi adalah ketergantungan pengguna terhadap sistem Autopilot/FSD, karena dapat menyebabkan pengemudi kehilangan kewaspadaan sehingga meningkatkan potensi kecelakaan fatal.
+
+## 9.4 Evaluasi Risiko
+Berdasarkan hasil analisis, risiko diprioritaskan berdasarkan tingkat keparahannya sehingga perusahaan dapat menentukan tindakan yang harus segera dilakukan.
+
+| Prioritas | Risiko | Alasan |
+|-----------|--------|--------|
+| 1 | Pengguna terlalu bergantung pada Autopilot | Berpotensi menyebabkan korban jiwa dan sering muncul pada berbagai kasus kecelakaan. |
+| 2 | Sistem gagal mengenali objek | Menyebabkan kendaraan tidak melakukan pengereman atau penghindaran secara tepat. |
+| 3 | Kesalahan perangkat lunak | Berpengaruh terhadap keselamatan seluruh pengguna kendaraan. |
+| 4 | Penurunan reputasi perusahaan | Berdampak pada kepercayaan konsumen dan investor. |
+| 5 | Investigasi regulator | Berdampak terhadap aspek hukum dan operasional perusahaan. |
+
+Evaluasi ini menunjukkan bahwa risiko yang berkaitan dengan keselamatan manusia harus menjadi prioritas utama dibandingkan risiko finansial maupun reputasi perusahaan.
+
+## 9.5 Opsi 4T
+### A. Treat (Mengurangi Risiko)
+Tesla perlu mengurangi tingkat risiko melalui beberapa langkah berikut.
+- Meningkatkan akurasi algoritma AI. 
+- Memperkuat sistem Driver Monitoring System agar pengemudi tetap memperhatikan jalan. 
+- Melakukan pengujian perangkat lunak secara lebih ketat sebelum pembaruan dirilis. 
+- Menambahkan peringatan yang lebih jelas mengenai batas kemampuan Autopilot/FSD.
+
+### B. Tolerate (Menerima Risiko)
+Beberapa risiko dengan kemungkinan rendah masih dapat diterima selama tetap berada dalam batas toleransi perusahaan, misalnya:
+- Kesalahan pembacaan marka jalan akibat kondisi cuaca ekstrem. 
+- Gangguan sensor yang bersifat sementara. 
+Risiko tersebut tetap harus dipantau melalui evaluasi berkala.
+
+### C. Transfer (Mengalihkan Risiko)
+Sebagian risiko dapat dialihkan kepada pihak lain melalui:
+- Kerja sama dengan perusahaan asuransi kendaraan.
+- Garansi produk dan layanan purna jual.
+- Pembagian tanggung jawab hukum sesuai peraturan yang berlaku. 
+Namun, pengalihan risiko tidak menghapus tanggung jawab moral perusahaan terhadap keselamatan pengguna.
+
+### D. Terminate (Menghindari Risiko)
+Risiko dengan dampak yang sangat tinggi harus dihindari apabila belum tersedia solusi yang memadai.
+Contohnya:
+- Menonaktifkan fitur tertentu yang terbukti belum aman. 
+- Menunda peluncuran pembaruan perangkat lunak sampai seluruh pengujian selesai. 
+- Membatasi penggunaan Full Self-Driving hanya pada kondisi jalan tertentu yang telah memenuhi standar keselamatan.
 
 ---
 
 # BAB X — Dampak dan Kontrol Preventif
+## 10.1 Dampak terhadap masyarakat
+Kecelakaan yang melibatkan Tesla Autopilot/FSD memberikan dampak yang signifikan terhadap masyarakat, terutama dalam aspek keselamatan, kepercayaan terhadap teknologi, dan pemahaman mengenai kecerdasan buatan pada kendaraan otonom.
 
-- Dampak terhadap masyarakat
-- Dampak terhadap industri
-- Rekomendasi teknis
-- Rekomendasi regulasi
-- Kontrol preventif
+Dari sisi keselamatan, beberapa insiden menyebabkan korban luka hingga korban jiwa. Hal ini menunjukkan bahwa teknologi kendaraan semi-otonom masih memiliki keterbatasan dan belum dapat menggantikan sepenuhnya peran manusia dalam mengemudi. Pengemudi tetap memiliki tanggung jawab untuk mengawasi kondisi jalan serta siap mengambil alih kendali kendaraan kapan pun diperlukan.
+
+Selain itu, kasus ini menimbulkan penurunan kepercayaan masyarakat terhadap teknologi kecerdasan buatan, khususnya pada sistem kendaraan otonom. Banyak pengguna menjadi lebih ragu terhadap keamanan fitur Autopilot/FSD karena adanya perbedaan antara ekspektasi yang dibangun melalui pemasaran dengan kemampuan sistem yang sebenarnya.
+
+Kasus ini juga meningkatkan kesadaran masyarakat mengenai pentingnya literasi digital dan pemahaman terhadap batas kemampuan teknologi AI. Pengguna tidak hanya dituntut mampu mengoperasikan kendaraan, tetapi juga memahami bahwa sistem AI masih memiliki keterbatasan dalam menghadapi kondisi lalu lintas yang kompleks.
+
+## 10.2 Dampak terhadap industri
+Kasus Tesla Autopilot/FSD memberikan dampak yang luas terhadap industri otomotif dan industri teknologi berbasis kecerdasan buatan. Bagi industri otomotif, kasus ini mendorong produsen kendaraan untuk lebih berhati-hati dalam mengembangkan dan memasarkan teknologi Advanced Driver Assistance System (ADAS). Banyak perusahaan mulai meningkatkan proses pengujian perangkat lunak, memperketat standar keselamatan, serta memperjelas informasi mengenai kemampuan dan keterbatasan fitur bantuan mengemudi.
+
+Sementara itu, bagi industri pengembangan perangkat lunak dan AI, kasus ini menjadi pengingat bahwa keberhasilan teknologi tidak hanya diukur dari inovasi, tetapi juga dari aspek keselamatan, transparansi, dan tanggung jawab etis. Pengembang perangkat lunak dituntut menerapkan praktik software engineering yang lebih baik, seperti pengujian menyeluruh (software testing), risk assessment, serta continuous monitoring setelah sistem digunakan oleh masyarakat.
+
+Selain itu, kasus ini mendorong regulator dan organisasi standar internasional untuk mengembangkan pedoman yang lebih jelas mengenai pengembangan, pengujian, dan penggunaan teknologi kendaraan otonom.
+
+## 10.3 Rekomendasi teknis
+Berdasarkan hasil analisis, terdapat beberapa rekomendasi teknis yang dapat diterapkan oleh Tesla maupun perusahaan pengembang teknologi kendaraan otonom, yaitu sebagai berikut.
+1.	Meningkatkan akurasi sistem AI melalui penyempurnaan algoritma pembelajaran mesin agar mampu mengenali berbagai kondisi jalan, kendaraan darurat, pejalan kaki, serta situasi cuaca yang beragam. 
+2.	Memperkuat Driver Monitoring System (DMS) untuk memastikan pengemudi tetap memperhatikan kondisi jalan selama fitur Autopilot/FSD digunakan. Sistem dapat memanfaatkan kamera kabin atau sensor lain untuk mendeteksi tingkat perhatian pengemudi. 
+3.	Melakukan pengujian perangkat lunak yang lebih komprehensif sebelum pembaruan (software update) dirilis kepada pengguna. Pengujian perlu mencakup berbagai skenario lalu lintas normal maupun kondisi ekstrem. 
+4.	Menyediakan mekanisme pelaporan insiden secara real-time, sehingga setiap kegagalan sistem dapat segera dianalisis dan diperbaiki melalui pembaruan perangkat lunak. 
+5.	Meningkatkan transparansi kepada pengguna, dengan memberikan informasi yang jelas mengenai kemampuan, keterbatasan, serta kondisi penggunaan fitur Autopilot/FSD agar tidak menimbulkan kesalahpahaman.
+
+## 10.4 Rekomendasi regulasi
+Selain perbaikan dari sisi teknis, diperlukan dukungan regulasi yang memadai agar penggunaan kendaraan semi-otonom dapat berlangsung secara aman dan bertanggung jawab.
+Beberapa rekomendasi regulasi yang dapat diterapkan antara lain:
+1.	Pemerintah perlu menetapkan standar nasional maupun internasional mengenai pengujian kendaraan otonom sebelum dipasarkan kepada masyarakat. 
+2.	Regulator perlu mewajibkan perusahaan melakukan audit keselamatan perangkat lunak (software safety audit) secara berkala oleh pihak independen. 
+3.	Perusahaan wajib melaporkan setiap kecelakaan yang melibatkan sistem bantuan mengemudi kepada regulator sebagai bagian dari evaluasi keselamatan. 
+4.	Regulasi harus mengatur secara jelas mengenai tanggung jawab hukum antara produsen kendaraan, pengembang perangkat lunak, dan pengguna apabila terjadi kecelakaan. 
+5.	Pemerintah perlu menetapkan aturan mengenai penggunaan istilah pemasaran agar tidak memberikan kesan bahwa kendaraan telah mampu mengemudi secara otomatis sepenuhnya apabila teknologi tersebut masih memerlukan pengawasan manusia.
+   
+## 10.5 Kontrol preventif
+Untuk mencegah terulangnya kasus serupa, diperlukan penerapan kontrol preventif secara berkelanjutan dari berbagai pihak.
+### A. Kontrol Preventif oleh Perusahaan
+- Melaksanakan software testing secara menyeluruh sebelum setiap pembaruan sistem. 
+- Melakukan evaluasi risiko secara berkala menggunakan kerangka ISO 31000. 
+- Menyediakan dokumentasi yang transparan mengenai batas kemampuan Autopilot/FSD. 
+- Membentuk tim independen yang bertugas melakukan audit etika dan keselamatan teknologi AI. 
+- Mengembangkan budaya keselamatan (safety culture) dalam setiap proses pengembangan perangkat lunak.
+  
+### B. Kontrol Preventif oleh Regulator
+- Melakukan pengawasan terhadap implementasi teknologi kendaraan semi-otonom. 
+- Menetapkan standar keselamatan yang wajib dipenuhi sebelum fitur diaktifkan untuk publik. 
+- Melakukan evaluasi berkala terhadap laporan kecelakaan dan hasil investigasi.
+  
+### C. Kontrol Preventif oleh Pengguna
+- Memahami petunjuk penggunaan Autopilot/FSD sebelum mengaktifkan fitur. 
+- Tetap memegang kendali kendaraan dan tidak sepenuhnya menyerahkan proses mengemudi kepada sistem AI. 
+- Melaporkan setiap kegagalan sistem kepada produsen agar dapat segera ditindaklanjuti. 
+Melalui penerapan kontrol preventif tersebut, risiko kecelakaan akibat kegagalan sistem maupun kesalahan penggunaan dapat diminimalkan. Selain itu, kolaborasi antara produsen, regulator, dan pengguna menjadi faktor penting dalam menciptakan ekosistem kendaraan otonom yang aman, bertanggung jawab, dan beretika.
+
 
 ---
 
 # BAB XI — Pelajaran Utama
+## 11.1 Pelajaran bagi Software Engineer
+Kasus Tesla Autopilot/FSD memberikan pelajaran penting bahwa seorang software engineer tidak hanya bertanggung jawab menghasilkan perangkat lunak yang inovatif, tetapi juga harus memastikan sistem yang dikembangkan aman, andal, dan tidak membahayakan pengguna. Dalam pengembangan perangkat lunak yang termasuk safety-critical system, keselamatan manusia harus menjadi prioritas utama dibandingkan kecepatan inovasi atau target bisnis.
 
-## Bagi Software Engineer
+Software engineer juga harus menerapkan prinsip-prinsip rekayasa perangkat lunak yang baik, seperti melakukan pengujian (software testing) secara menyeluruh, validasi terhadap berbagai skenario penggunaan, serta evaluasi risiko sebelum sistem dirilis kepada publik. Selain itu, engineer memiliki tanggung jawab moral untuk melaporkan potensi cacat atau kelemahan sistem kepada perusahaan apabila ditemukan masalah yang dapat membahayakan pengguna.
 
-...
+Kasus ini juga menunjukkan pentingnya mematuhi kode etik profesi, seperti ACM Code of Ethics dan IEEE Code of Ethics, yang menekankan bahwa keselamatan, kesejahteraan masyarakat, serta kepentingan publik harus menjadi prioritas utama dalam setiap proses pengembangan teknologi.
 
-## Bagi Perusahaan
+## 11.2 Pelajaran bagi Perusahaan
+Bagi perusahaan, inovasi teknologi harus selalu diimbangi dengan tanggung jawab etis dan transparansi kepada masyarakat. Perusahaan tidak boleh memberikan klaim pemasaran yang dapat menimbulkan kesalahpahaman mengenai kemampuan suatu produk, terutama apabila produk tersebut masih memiliki keterbatasan teknis.
+Tesla sebagai pengembang sistem Autopilot/FSD perlu memastikan bahwa setiap pembaruan perangkat lunak telah melalui proses pengujian yang memadai sebelum digunakan oleh konsumen. Selain itu, perusahaan harus memiliki mekanisme pelaporan insiden yang transparan, bekerja sama dengan regulator selama proses investigasi, serta secara aktif melakukan perbaikan apabila ditemukan kelemahan pada sistem.
+Kasus ini juga menunjukkan bahwa budaya keselamatan (safety culture) harus menjadi bagian dari tata kelola perusahaan. Keputusan bisnis seharusnya tidak mengorbankan keselamatan pengguna demi mempertahankan daya saing atau mempercepat peluncuran produk baru.
 
-...
+## 11.3 Pelajaran bagi Regulator
+Regulator memiliki peran penting dalam memastikan bahwa perkembangan teknologi kendaraan otonom tetap berjalan sesuai dengan standar keselamatan yang berlaku. Kasus Tesla Autopilot/FSD menunjukkan bahwa regulasi harus mampu mengikuti perkembangan teknologi, khususnya dalam bidang kecerdasan buatan dan kendaraan semi-otonom.
+Pemerintah dan lembaga pengawas perlu menetapkan standar pengujian yang lebih ketat sebelum suatu sistem dapat digunakan secara luas oleh masyarakat. Selain itu, regulator perlu mewajibkan perusahaan untuk melaporkan setiap insiden yang melibatkan sistem bantuan mengemudi agar dapat dilakukan evaluasi secara berkelanjutan.
+Regulator juga perlu memperjelas pembagian tanggung jawab hukum antara produsen, pengembang perangkat lunak, dan pengguna apabila terjadi kecelakaan. Dengan regulasi yang jelas dan pengawasan yang konsisten, keselamatan masyarakat dapat lebih terjamin tanpa menghambat inovasi teknologi.
 
-## Bagi Regulator
+---
 
-...
-
-## Kesimpulan
-
-...
+# BAB XII - Kesimpulan
+Berdasarkan hasil investigasi dan analisis yang telah dilakukan, dapat disimpulkan bahwa kasus kecelakaan Tesla Autopilot/Full Self-Driving (FSD) bukan hanya disebabkan oleh faktor teknologi, tetapi juga dipengaruhi oleh aspek etika profesi, tata kelola perusahaan, perilaku pengguna, serta efektivitas regulasi. Penggunaan sistem bantuan mengemudi berbasis kecerdasan buatan harus disertai dengan tanggung jawab yang besar dari seluruh pihak yang terlibat.
+Dari perspektif etika profesi, pengembang perangkat lunak berkewajiban mengutamakan keselamatan publik, bersikap jujur mengenai kemampuan sistem, serta terus melakukan evaluasi dan perbaikan terhadap teknologi yang dikembangkan. Perusahaan harus mengedepankan transparansi, menerapkan budaya keselamatan, dan memastikan setiap inovasi telah memenuhi standar kualitas sebelum dipasarkan. Di sisi lain, regulator perlu menghadirkan kebijakan yang adaptif terhadap perkembangan teknologi sekaligus memperkuat pengawasan terhadap implementasi kendaraan semi-otonom.
+Melalui penerapan prinsip etika profesi, manajemen risiko berdasarkan ISO 31000, kepatuhan terhadap kode etik profesional, serta regulasi yang memadai, diharapkan pengembangan teknologi kendaraan otonom dapat berlangsung secara lebih aman, bertanggung jawab, dan memberikan manfaat yang optimal bagi masyarakat tanpa mengabaikan aspek keselamatan manusia.
 
 ---
 
@@ -418,9 +549,35 @@ Tahapan:
 
 # Daftar Pustaka
 
-Gunakan format IEEE sesuai laporan.
+[1] PBS News, **"U.S. opens new investigation into Tesla's 'Full Self-Driving' system after fatal crash,"** Oct. 18, 2024.
+
+[2] National Highway Traffic Safety Administration (NHTSA), *Investigation PE25012 Open Resume*, Office of Defects Investigation, U.S. Department of Transportation, Oct. 7, 2025.
+
+[3] CNBC, **"Tesla faces federal probe after Model 3 crash that killed 76-year-old,"** Jun. 22, 2026.
+
+[4] Panter, Panter & Sampedro, **"NHTSA Escalates Tesla Full Self-Driving Investigation Over Reduced-Visibility Crashes,"** Panter, Panter & Sampedro, 2025.
+
+[5] FOX 7 Austin, **"Elon Musk, Tesla sued by shareholders over safety risks of Robotaxis, self-driving vehicles,"** Aug. 6, 2025.
+
+[6] Tesla, Inc., *Form PX14A6G*, U.S. Securities and Exchange Commission (SEC), 2025.
+
+[7] I. Kant, *Groundwork of the Metaphysics of Morals*, M. Gregor, Trans. Cambridge, U.K.: Cambridge University Press, 1998. (Original work published 1785).
+
+[8] J. Rawls, *A Theory of Justice*. Cambridge, MA, USA: Belknap Press of Harvard University Press, 1971.
+
+[9] Tesla, Inc., *Autopilot and Full Self-Driving Capability*, Tesla, Inc., 2025.
+
+[10] SAE International, *Taxonomy and Definitions for Terms Related to Driving Automation Systems for On-Road Motor Vehicles (SAE J3016)*. Warrendale, PA, USA: SAE International, 2021.
+
+[11] International Organization for Standardization, *ISO 31000:2018 Risk Management—Guidelines*. Geneva, Switzerland: ISO, 2018.
+
+[12] National Highway Traffic Safety Administration (NHTSA), *Safety Recall Report and Investigations Related to Tesla Autopilot*. Washington, DC, USA: U.S. Department of Transportation, 2024.
+
+[13] Tesla, Inc., *Tesla Vehicle Safety Report*. Austin, TX, USA: Tesla, Inc., 2023.
+
+[14] Institute of Electrical and Electronics Engineers (IEEE), *IEEE Code of Ethics*. Piscataway, NJ, USA: IEEE, 2020.
 
 
-## 📄 Lisensi
+## Lisensi
 
 Repository ini dibuat untuk keperluan akademik pada Mata Kuliah **Etika Profesi** Program Studi Teknik Informatika Universitas Pancasila.
