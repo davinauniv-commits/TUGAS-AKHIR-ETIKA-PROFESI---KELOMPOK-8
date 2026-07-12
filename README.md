@@ -201,38 +201,91 @@ Hingga saat ini belum ada keputusan akhir yang menunjukkan adanya kesalahan tekn
 
 # BAB III — Pemetaan Stakeholder
 
-## Stakeholder
+## 3.1 Indentifikasi Stakeholder
+  Dalam kasus kecelakaan yang melibatkan sistem Autopilot/FSD, teridentifikasi enam stakeholder utama yang memiliki keterkaitan langsung maupun tidak langsung terhadap isu ini:
+|No |	Stakeholder	| Kategori	| Peran |
+|---|-------------|-----------|-------|
+|1	|Tesla	| Internal | Produsen kendaraan dan pengembang sistem Autopilot/FSD |
+|2	|Software Engineer	| Internal | Perancang dan pengembang algoritma sistem otonom |
+|3	|Pengguna (konsumen)	| Eksternal |	Pembeli dan pengoperasi kendaraan berfitur Autopilot/FSD |
+|4	|Korban	| Eksternal	| Pihak yang mengalami kerugian akibat insiden yang menyangkut penggunaan kendaraan dengan fitur Autopilot/FSD
+|5	|NHTSA	| Eksternal	| Regulator keselamatan kendaraan bermotor di Amerika Serikat |
+|6	|Investor	| Eksternal	| Pemegang saham dan penyandang dana perusahaan |
 
-| Stakeholder | Peran |
-|------------|-------|
-| Tesla | Produsen |
-| Software Engineer | Pengembang Sistem |
-| Pengguna | Konsumen |
-| Korban | Pihak Terdampak |
-| NHTSA | Regulator |
-| Investor | Pemegang Saham |
+Kategori internal digunakan untuk pihak yang terdampak langsung oleh keputusan dan operasional sistem, sedangkan eksternal mengarah kepada pihak yang memiliki kepentingan pengawasan atau finansial terhadap keberlangsungan perusahaan.
 
----
+## 3.2 Hubungan Kepentingan
+### Tesla
+Sebagai produsen, Tesla memiliki kepentingan komersial untuk mempercepat komersialisasi FSD sekaligus menjaga reputasi keselamatan. Tesla berhubungan langsung dengan seluruh stakeholder lain, seperti mempekerjakan software engineer, menjual produk kepada pengguna, bertanggung jawab atas dampak terhadap korban, diawasi oleh NHTSA, dan melapor kepada investor.
+
+### Software Engineer
+Engineer bertanggung jawab merancang sistem deteksi objek, algoritma pengambilan keputusan, dan mekanisme peringatan kepada pengemudi. Kepentingan mereka mencakup tekanan untuk memenuhi target rilis produk sekaligus tanggung jawab etis-teknis atas keselamatan sistem yang mereka bangun. 
+
+### Pengguna 
+Pengguna berkepentingan atas kenyamanan, efisiensi berkendara, serta jaminan keselamatan. NHTSA mencatat bahwa FSD dan Autopilot masih dikategorikan sebagai sistem SAE Level 2, yang tetap mensyaratkan pengemudi mengawasi penuh dan bertanggung jawab atas jalannya kendaraan, sehingga tanggung jawab hukum utama tetap berada pada pengemudi meskipun sistem otomatis sedang aktif. 
+
+### Korban 
+Korban meliputi pengemudi, penumpang, maupun pihak ketiga (pejalan kaki, pengendara lain) yang mengalami cedera atau kematian akibat insiden. Basis data independen mencatat sedikitnya 65 kematian yang melibatkan sistem Autopilot atau FSD Tesla sejak 2013 hingga 2025. Kepentingan mereka adalah kompensasi, keadilan hukum, dan pencegahan insiden serupa di masa depan. 
+
+### NHTSA
+NHTSA berkepentingan menegakkan standar keselamatan kendaraan bermotor di ranah publik. Lembaga ini telah membuka lebih dari tiga puluh investigasi kecelakaan khusus terhadap sistem bantuan pengemudi Tesla sejak 2016, dan pada Oktober 2024 membuka investigasi baru terhadap sekitar 2,4 juta unit Tesla model tahun 2016–2024 terkait performa FSD, yang kemudian ditingkatkan statusnya menjadi Engineering Analysis pada Maret 2026, mencakup sekitar 3,2 juta kendaraan model 2016–2026. 
+
+### Investor
+Investor berkepentingan pada nilai saham, tata kelola perusahaan, dan keberlanjutan strategi bisnis jangka panjang. Ketidakpastian terkait klaim kemampuan otonom Tesla sempat memicu gugatan class action yang diajukan oleh pemegang saham terhadap Musk dan Tesla terkait risiko keselamatan robotaxi dan kendaraan otonom. Sebagian pemegang saham institusional juga menyatakan keprihatinan atas terpecahnya fokus kepemimpinan Musk di berbagai perusahaan lain, yang dinilai melemahkan kemampuan Tesla mengelola bisnis intinya. 
+
+## 3.3 Dampak bagi masing-masing stakeholder
+|No | Stakeholder	| Dampak Positif |	Dampak negatif |
+|---|-------------|----------------|-----------------|
+| 1	| Tesla	| Diferensiasi produk, potensi pendapatan dari fitur FSD berbayar	| Risiko reputasi, tuntutan hukum, biaya recall unit, tekanan regulasi |
+|2	| Software Engineer	| Peran strategis dalam inovasi teknologi	| Beban tanggung jawab etis, tekanan tenggat produk yang berisiko terhadap kualitas keselamatan |
+|3	| Pengguna (konsumen)	| Kemudahan dan pengurangan beban mengemudi	| Risiko kesalahpahaman batas kemampuan sistem, potensi kecelakaan |
+|4	| Korban	| -	| Cedera, kematian, kerugian finansial dan psikologis, proses hukum yang panjang |
+|5	| NHTSA	| Penguatan mandat pengawasan keselamatan publik	| Beban investigasi besar, tantangan regulasi teknologi yang berkembang cepat |
+|6	| Investor	| Potensi pertumbuhan nilai saham dari narasi AI/otonom	| Volatilitas saham, risiko litigasi, ketidakpastian tata kelola perusahaan |
+
+
 
 # BAB IV — Analisis Empat Teori Etika
 
 ## Utilitarianisme
+### a.	Prinsip teori
+Utilitarianisme merupakan cara menilai benar atau salahnya suatu tindakan berdasarkan konsekuensinya. Tindakan dianggap etis jika menghasilkan manfaat (kebahagiaan, kesejahteraan) terbesar bagi jumlah orang terbanyak, dan tidak etis jika menimbulkan kerugiaan yang lebih besar dari manfaatnya. Perhitungan dilakukan secara agregat, membandingkan total utilitas seluruh pihak yang berdampak, bukan hanya sepihak.
 
-...
+### b.	Analisis kasus
+Tesla secara konsisten membela pengembangan Autopilot/FSD dengan argumen agregat: jika secara statistik sistem ini menurunkan angka kecelakaan dibanding rata-rata pengemudi manusia, maka penyebarannya dapat dibenarkan meski menimbulkan korban individual. Namun, analisis NHTSA menemukan bahwa desain sistem keterlibatan pengemudi pada Autopilot tergolong lemah dibanding sistem Level 2 pesaing Autosteer justru nonaktif ketika pengemudi mencoba melakukan koreksi kemudi manual, sebuah desain yang berpotensi mendorong kelalaian alih-alih mencegahnya. Artinya, klaim manfaat agregat Tesla dibangun di atas desain yang belum tentu optimal secara keselamatan, sehingga perhitungan utilitasnya patut dipertanyakan validitasnya. Selain itu, tekanan investor untuk mempercepat rilis fitur demi pertumbuhan nilai saham menciptakan potensi trade-off antara utilitas jangka pendek (nilai saham, pangsa pasar) dan utilitas jangka panjang (keselamatan publik, kepercayaan pasar)  sesuatu yang jarang dihitung penuh dalam kalkulasi utilitas versi perusahaan. 
+
+### c.	Kesimpulan 
+Dari sudut pandang utilitarianisme murni, pengembangan FSD/Autopilot berpotensi dibenarkan hanya jika klaim manfaat agregatnya benar-benar teruji secara independen dan transparan bukan sekadar klaim internal perusahaan. Selama data keselamatan belum divalidasi pihak ketiga yang independen dan desain sistem masih memiliki kelemahan yang diketahui, klaim "manfaat terbesar bagi jumlah terbesar" belum dapat dipertanggungjawabkan secara etis, karena berpotensi mengorbankan korban individual demi kepentingan agregat yang belum terbukti solid. 
 
 ## Deontologi
+### a.	Prinsip teori
+Deontologi, terutama dalam kerangka Immanuel Kant, menilai tindakan berdasarkan kesesuaiannya dengan kewajiban moral dan prinsip universal (categorical imperative), terlepas dari konsekuensi yang dihasilkan. Prinsip kuncinya: manusia tidak boleh diperlakukan semata sebagai sarana (means) untuk mencapai tujuan pihak lain, melainkan selalu harus diperlakukan sebagai tujuan (ends) itu sendiri. Kejujuran dan transparansi menjadi kewajiban mutlak, tidak bisa dikompromikan meski demi hasil yang dianggap baik. 
 
-...
+### b.	Analisis kasus
+Terdapat kewajiban mutlak bagi Tesla untuk tidak menyesatkan konsumen mengenai kemampuan sebenarnya dari sistem yang dijual. Fakta bahwa pengadilan dan DMV California menemukan adanya praktik periklanan yang menyesatkan terkait batas kemampuan sistem hingga memaksa Tesla mengubah nama pemasaran dari "Autopilot" merupakan pelanggaran langsung terhadap prinsip kejujuran deontologis. Pengguna dan pihak ketiga di jalan (calon korban) tidak pernah diperlakukan sepenuhnya sebagai ends, melainkan turut berfungsi sebagai means dalam proses pengumpulan data pengujian dunia nyata untuk mematangkan sistem, tanpa selalu disertai transparansi penuh atas keterbatasan teknologi tersebut. Dari sisi internal, software engineer yang mengetahui adanya keterbatasan sistem namun tetap merilisnya karena tekanan tenggat waktu turut melanggar kewajiban profesional untuk jujur dan berhati-hati (duty of care). 
+
+### c.	Kesimpulan 
+Dari sudut pandang deontologi, tindakan Tesla dalam memasarkan kemampuan sistem tidak dapat dibenarkan meski hasil akhirnya (jika benar) menurunkan angka kecelakaan secara agregat, karena deontologi menolak logika "tujuan menghalalkan cara". Kewajiban untuk berkata jujur kepada pengguna dan tidak menjadikan pihak ketiga sebagai objek uji coba bersifat mutlak dan berlaku universal, sehingga pelanggaran terhadap kewajiban ini tetap tidak etis terlepas dari manfaat statistik yang diklaim.
 
 ## Etika Kebajikan
+### a.	Prinsip teori
+Etika kebajikan (virtue ethics), berakar pada pemikiran Aristoteles, tidak berfokus pada aturan (deontologi) atau konsekuensi (utilitarianisme), melainkan pada karakter moral pelaku. Suatu tindakan dinilai etis jika mencerminkan kebajikan (virtues) seperti kejujuran, kehati-hatian (prudence), tanggung jawab, dan keberanian moral dan sebaliknya, tindakan dinilai tidak etis jika mencerminkan sifat buruk (vices) seperti keserakahan, kecerobohan, atau kesombongan. Fokusnya adalah "tindakan seperti apa yang akan dilakukan oleh orang/organisasi yang berkarakter baik?" 
 
-...
+### b.	Analisis kasus
+Sejumlah pemegang saham institusional secara terbuka mengkritik kepemimpinan Musk karena dianggap terlalu terbagi perhatiannya di berbagai perusahaan lain (SpaceX, X, xAI, Neuralink), sementara Dewan Direksi Tesla dinilai pasif dan tidak memberikan pengawasan yang memadai. Kritik ini pada dasarnya mempersoalkan kebajikan kepemimpinan apakah pemimpin perusahaan menunjukkan tanggung jawab dan kehati-hatian yang sepatutnya terhadap keselamatan produk yang berisiko tinggi terhadap nyawa manusia. Pola keterlambatan pelaporan insiden kepada NHTSA sebagaimana disyaratkan oleh Standing General Order juga dapat dibaca sebagai kegagalan organisasi menunjukkan kebajikan transparansi. Di sisi lain, etika kebajikan juga menuntut keberanian moral dari software engineer untuk menyuarakan keberatan internal ketika suatu sistem dianggap belum layak dirilis sebuah kebajikan yang sulit dinilai dari luar, namun menjadi elemen penting dalam budaya organisasi yang etis. 
+
+### c.	Kesimpulan 
+Dari sudut pandang etika kebajikan, pola kepemimpinan yang terpecah fokus, minimnya pengawasan dewan direksi, dan keterlambatan transparansi pelaporan insiden mencerminkan defisit karakter organisasi khususnya pada kebajikan tanggung jawab dan kehati-hatian yang seharusnya menjadi prioritas utama bagi perusahaan yang mengembangkan teknologi berisiko keselamatan tinggi. Perbaikan tata kelola dan budaya keberanian menyuarakan risiko secara internal menjadi kebutuhan mendasar agar organisasi dapat dikatakan bertindak sebagaimana organisasi yang berkarakter baik seharusnya bertindak. 
 
 ## Etika Hak/Kontraktarian
+### a.	Prinsip teori
+Etika hak menekankan bahwa setiap individu memiliki hak dasar yang tidak boleh dilanggar pihak lain termasuk hak atas keselamatan, hak atas informasi yang jujur, dan hak atas ganti rugi. Kontraktarianisme, berakar pada pemikiran John Locke dan dikembangkan lebih lanjut oleh John Rawls, memandang moralitas sebagai hasil kesepakatan sosial yang adil, di mana aturan main yang berlaku harus dapat diterima oleh semua pihak yang terlibat termasuk pihak yang paling rentan dan tidak memiliki kekuatan tawar. Konsep Rawlsian veil of ignorance mengajukan uji etis: apakah suatu kebijakan akan tetap dianggap adil jika perancangnya tidak tahu posisi mana yang akan mereka tempati dalam sistem tersebut? 
 
-...
+### b.	Analisis kasus
+Pengguna memiliki hak atas informasi akurat mengenai batas kemampuan sistem sebelum memutuskan mengaktifkan fitur FSD hak yang berpotensi dilanggar melalui praktik pemasaran yang pernah dinyatakan menyesatkan oleh otoritas California. Lebih krusial lagi, korban pihak ketiga seperti pejalan kaki atau pengendara lain tidak pernah menyetujui kontrak apapun dengan Tesla, namun tetap menanggung risiko dari teknologi yang tidak mereka pilih sendiri pelanggaran nyata terhadap prinsip persetujuan (informed consent) yang menjadi inti etika kontraktarian. Uji veil of ignorance juga relevan: seandainya pengambil keputusan pengujian robotaxi di jalan publik tidak tahu apakah kelak mereka akan menjadi pengemudi, penumpang, atau pejalan kaki yang terdampak, desain pengujian kemungkinan besar akan jauh lebih konservatif sebagaimana ditunjukkan oleh kritik kelompok advokasi keselamatan terhadap uji jalan publik robotaxi. NHTSA di sini berperan sebagai representasi negara yang menjaga kontrak sosial, memastikan risiko yang ditanggung publik sebanding dengan hak mereka atas keselamatan. 
 
----
+### c.	Kesimpulan 
+Dari sudut pandang etika hak/kontraktarian, terdapat ketimpangan mendasar antara pihak yang menanggung risiko (pengguna dan pihak ketiga di jalan) dan pihak yang mengambil keputusan (perusahaan serta jajaran direksinya). Selama pihak ketiga yang tidak pernah menyetujui kontrak apa pun tetap menanggung risiko tanpa kompensasi atau perlindungan yang memadai, praktik pengembangan dan pengujian sistem otonom ini tidak memenuhi standar keadilan kontraktarian, dan memerlukan mekanisme persetujuan serta perlindungan hak yang lebih kuat sebelum dapat dianggap etis secara penuh. 
 
 # BAB V — Analisis Berdasarkan Pancasila
 
