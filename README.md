@@ -53,21 +53,79 @@
 
 # Daftar Isi
 
-- [ Anggota Kelompok](#-anggota-kelompok)
-- [ Pemetaan Sub-CPMK](#-pemetaan-sub-cpmk)
-- [ Video Presentasi](#-video-presentasi)
-- [ BAB I – Pendahuluan](#-bab-i--pendahuluan)
-- [ BAB II – Kronologi Kasus](#-bab-ii--kronologi-kasus)
-- [ BAB III – Analisis Stakeholder](#-bab-iii--analisis-stakeholder)
-- [ BAB IV – Analisis Empat Teori Etika](#-bab-iv--analisis-empat-teori-etika)
-- [ BAB V – Lensa Pancasila](#-bab-v--lensa-pancasila)
-- [ BAB VI – Kode Etik Profesi](#-bab-vi--kode-etik-profesi)
-- [ BAB VII – Analisis Regulasi dan Hukum](#-bab-vii--analisis-regulasi-dan-hukum)
-- [ BAB VIII – Checkpoint Integritas dan Anti-Korupsi](#-bab-viii--checkpoint-integritas-dan-anti-korupsi)
-- [ BAB IX – Manajemen Risiko dan Opsi 4T](#-bab-ix--manajemen-risiko-dan-opsi-4t)
-- [ BAB X – Dampak dan Kontrol Preventif](#-bab-x--dampak-dan-kontrol-preventif)
-- [ BAB XI – Pelajaran Utama](#-bab-xi--pelajaran-utama)
-- [ Daftar Pustaka](#-daftar-pustaka)
+- [Anggota Kelompok](#anggota-kelompok)
+- [Pemetaan Sub-CPMK](#pemetaan-sub-cpmk)
+- [Video Presentasi](#video-presentasi)
+- [BAB I — Kronologi dan Konteks](#bab-i--kronologi-dan-konteks)
+  - [1.1 Latar Belakang](#11-latar-belakang)
+  - [1.2 Kronologi Kejadian](#12-kronologi-kejadian)
+  - [1.3 Konteks Teknis](#13-konteks-teknis)
+
+- [BAB II — Fakta Kunci dan Transparansi](#bab-ii--fakta-kunci-dan-transparansi)
+  - [2.1 Fakta Terverifikasi](#21-fakta-terverifikasi)
+  - [2.2 Informasi yang Masih Dalam Investigasi](#22-informasi-yang-masih-dalam-investigasi)
+  - [2.3 Catatan Transparansi](#23-catatan-transparansi)
+
+- [BAB III — Pemetaan Stakeholder](#bab-iii--pemetaan-stakeholder)
+  - [3.1 Identifikasi Stakeholder](#31-indentifikasi-stakeholder)
+  - [3.2 Hubungan Kepentingan](#32-hubungan-kepentingan)
+  - [3.3 Dampak bagi masing-masing stakeholder](#33-dampak-bagi-masing-masing-stakeholder)
+
+- [BAB IV — Analisis Empat Teori Etika](#bab-iv--analisis-empat-teori-etika)
+  - [Utilitarianisme](#utilitarianisme)
+  - [Deontologi](#deontologi)
+  - [Etika Kebajikan](#etika-kebajikan)
+  - [Etika Hak/Kontraktarian](#etika-hakkontraktarian)
+
+- [BAB V — Analisis Berdasarkan Pancasila](#bab-v--analisis-berdasarkan-pancasila)
+  - [5.1 Analisis Sila 1 – Ketuhanan Yang Maha Esa](#51-analisis-sila-1--ketuhanan-yang-maha-esa)
+  - [5.2 Analisis Sila 2 – Kemanusiaan yang Adil dan Beradab](#52-analisis-sila-2--kemanusiaan-yang-adil-dan-beradab)
+  - [5.3 Analisis Sila 3 – Persatuan Indonesia](#53-analisis-sila-3--persatuan-indonesia)
+  - [5.4 Analisis Sila 4 – Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan](#54-analisis-sila-4--kerakyatan-yang-dipimpin-oleh-hikmat-kebijaksanaan-dalam-permusyawaratanperwakilan)
+  - [5.5 Analisis Sila 5 – Keadilan Sosial bagi Seluruh Rakyat Indonesia](#55-analisis-sila-5--keadilan-sosial-bagi-seluruh-rakyat-indonesia)
+  - [5.6 Nilai Universitas Pancasila](#56-nilai-universitas-pancasila)
+
+- [BAB VI — Kode Etik Profesi](#bab-vi--kode-etik-profesi)
+  - [6.1 ACM Code of Ethics](#61-acm-code-of-ethics)
+  - [6.2 IEEE Code of Ethics](#62-ieee-code-of-ethics)
+  - [6.3 Pasal yang relevan](#63-pasal-yang-relevan)
+  - [6.4 Analisis pelanggaran/kepatuhan](#64-analisis-pelanggarankepatuhan)
+
+- [BAB VII — Regulasi dan Hukum](#bab-vii--regulasi-dan-hukum)
+  - [7.1 Regulasi NHTSA](#71-regulasi-nhtsa)
+  - [7.2 Regulasi Kendaraan Otonom](#72-regulasi-kendaraan-otonom)
+  - [7.3 Tanggung Jawab Hukum Tesla](#73-tanggung-jawab-hukum-tesla)
+  - [7.4 Perbedaan Tanggung Jawab Hukum dan Moral](#74-perbedaan-tanggung-jawab-hukum-dan-moral)
+
+- [BAB VIII — Integritas dan Anti Korupsi](#bab-viii--integritas-dan-anti-korupsi)
+  - [8.1 Penyalahgunaan Kepercayaan](#81-penyalahgunaan-kepercayaan)
+  - [8.2 Overclaim Kemampuan Sistem](#82-overclaim-kemampuan-sistem)
+  - [8.3 Konflik Kepentingan](#83-konflik-kepentingan)
+  - [8.4 Integritas Engineer](#84-integritas-engineer)
+  - [8.5 Analisis Anti-Korupsi dalam Arti Luas](#85-analisis-anti-korupsi-dalam-arti-luas)
+
+- [BAB IX — Manajemen Risiko dan Opsi 4T](#bab-ix--manajemen-risiko-dan-opsi-4t)
+  - [9.1 Manajemen Risiko ISO 31000](#91-manajemen-risiko-iso-31000)
+  - [9.2 Identifikasi Risiko](#92-identifikasi-risiko)
+  - [9.3 Matriks Risiko](#93-matriks-risiko)
+  - [9.4 Evaluasi Risiko](#94-evaluasi-risiko)
+  - [9.5 Opsi 4T](#95-opsi-4t)
+
+- [BAB X — Dampak dan Kontrol Preventif](#bab-x--dampak-dan-kontrol-preventif)
+  - [10.1 Dampak terhadap masyarakat](#101-dampak-terhadap-masyarakat)
+  - [10.2 Dampak terhadap industri](#102-dampak-terhadap-industri)
+  - [10.3 Rekomendasi teknis](#103-rekomendasi-teknis)
+  - [10.4 Rekomendasi regulasi](#104-rekomendasi-regulasi)
+  - [10.5 Kontrol preventif](#105-kontrol-preventif)
+
+- [BAB XI — Pelajaran Utama](#bab-xi--pelajaran-utama)
+  - [11.1 Pelajaran bagi Software Engineer](#111-pelajaran-bagi-software-engineer)
+  - [11.2 Pelajaran bagi Perusahaan](#112-pelajaran-bagi-perusahaan)
+  - [11.3 Pelajaran bagi Regulator](#113-pelajaran-bagi-regulator)
+
+- [BAB XII — Kesimpulan](#bab-xii---kesimpulan)
+- [Lampiran](#lampiran)
+- [Daftar Pustaka](#daftar-pustaka)
 
 ---
 
@@ -519,9 +577,8 @@ Melalui penerapan prinsip etika profesi, manajemen risiko berdasarkan ISO 31000,
 
 # Lampiran
 
-- Laporan Lengkap (PDF)
-- Slide Presentasi
-- Gambar Pendukung
+- [Laporan Proyek Based Learning](./Laporan%20Projek%20Based%20Learning%20-%20Kelompok%208.pdf)
+- [Slide Presentasi](./PROJEK%20ETIKA%20PROFESI%20-%20KELOMPOK%208%20-%20KASUS....pdf)
 
 ---
 
