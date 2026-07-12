@@ -96,7 +96,7 @@ Tesla, Inc. adalah sebuah perusahaan kendaraan yang berasal dari Amerika Serikat
 - Automatic Lane Change
 - Traffic Sign Recognition
 - Automatic Parking Assistance
-- 
+  
 Meskipun memiliki kemampuan yang cukup canggih, menurut standar Society of Automotive Engineers (SAE), Autopilot dan Full Self-Driving masih berada pada Level 2 Driving Automation. Artinya, pengemudi tetap bertanggung jawab penuh terhadap pengendalian kendaraan dan harus selalu siap mengambil alih kendali kapan pun diperlukan.
 
 Kasus Tesla Autopilot menjadi salah satu contoh penting dalam pembahasan etika profesi karena berbagai insiden yang melibatkan kendaraan Tesla saat menggunakan Autopilot maupun Full Self-Driving menimbulkan pertanyaan mengenai keamanan sistem, tanggung jawab perusahaan, serta perilaku pengguna dalam memanfaatkan teknologi tersebut. Kondisi ini mendorong National Highway Traffic Safety Administration (NHTSA) untuk melakukan penyelidikan guna menilai apakah sistem Autopilot telah memenuhi standar keselamatan yang berlaku.
