@@ -257,41 +257,40 @@ Hingga saat ini belum ada keputusan akhir yang menunjukkan adanya kesalahan tekn
 
 ## 5.6 Nilai Universitas Pancasila
   Selain lima sila, kasus ini juga dapat dibaca melalui lima nilai yang dijunjung Universitas Pancasila. Hal ini karena nilai-nilai ini sebenarnya berasal dari semangat Pancasila sendiri.
-### Integritas
+### - Integritas
   Dalam hal integritas, Tesla tampak tidak selaras dengan nama fitur yang digunakan dibandingkan dengan kemampuan sebenarnya sistem. Meskipun masih di Level 2, menyebut fitur "Full Self-Driving" merupakan bentuk ketidakjujuran yang merusak integritas perusahaan dan engineer yang terlibat dalam pengembangannya.
-### Kepedulian
+### - Kepedulian
   Dari sisi kepedulian, sebelum fitur dirilis ke pasar keselamatan pengguna harus menjadi prioritas utama daripada perbaikan belakangan setelah muncul korban. Sejak awal, respons Tesla terhadap tekanan dari NHTSA menunjukkan kepedulian yang sifatnya reaktif, bukan proaktif.
-### Harmonis
+### - Harmonis
   Dari sisi harmonis, ada ketegangan yang tidak terkontrol antara kepentingan bisnis Tesla dan keselamatan pengguna jalan; proses pengembangan yang lebih hati-hati seharusnya memperbaikinya.
-### Kolaboratif
+### - Kolaboratif
   Dalam hal kolaboratif, keputusan penting tentang desain dan perilisan fitur dibuat secara internal tanpa melibatkan regulator atau ahli keselamatan sejak tahap awal. Namun, kolaborasi semacam itu penting untuk sistem yang membutuhkan kehidupan manusia.
-### Profesionalisme
+### - Profesionalisme
   Dari sisi Profesionalisme, seorang software engineer yang bekerja di sistem keselamatan kritis seperti ini harus berani menyuarakan keberatan jika ada tekanan bisnis yang mengancam keselamatan, daripada hanya mengikuti target rilis tanpa mempertimbangkan risikonya terhadap pengguna dari perspektif profesional.
 
 ---
 
 # BAB VI — Kode Etik Profesi
 
-## ACM Code of Ethics
+## 6.1 ACM Code of Ethics
   Untuk membaca kasus Tesla ini, ada kode etik yang dibuat oleh ACM (Association for Computing Machinery). Salah satu prinsip terpenting ialah bahwa seorang praktisi IT memiliki kewajiban untuk menjaga kesejahteraan manusia dan menghindari  bahaya. Prinsip ini sangat berkaitan dengan tugas engineer untuk memastikan bahwa sistem Autopilot tidak menimbulkan risiko bagi pengguna, terutama bagi orang lain di jalan raya yang tidak terlibat dalam pengambilan keputusan untuk menggunakan fitur tersebut.
   Kejujuran dan kepercayaan juga penting. Karena nama "Full Self-Driving" memberi kesan kemampuan yang lebih tinggi daripada kenyataan teknisnya, penamaan sistem yang secara teknis masih berada pada Level 2 cukup sulit dibenarkan berdasarkan prinsip ini.
 ACM juga menekankan pentingnya memahami dan mengevaluasi dampak sosial dari suatu pekerjaan. Dampak sosial ini harus mencakup semua orang yang mungkin mengalami kerugian. Dalam kasus Tesla, ini berarti bahwa engineer tidak hanya perlu mempertimbangkan aspek teknis sistem, tetapi juga mempertimbangkan bagaimana produk tersebut digunakan atau bahkan disalahgunakan oleh pengguna di lapangan.
 
-## IEEE Code of Ethics
+## 6.2 IEEE Code of Ethics
   Sebagai asosiasi profesional yang memberikan dukungan kepada banyak insinyur perangkat lunak, keselamatan, kesehatan, dan kesejahteraan publik adalah hal yang paling penting. Prinsip ini sangat penting untuk Autopilot karena sistem tersebut sangat berkaitan dengan keselamatan jiwa dan tidak boleh dikorbankan oleh tekanan pasar atau kecepatan produk baru.
 IEEE juga mengatakan bahwa setiap klaim atau perkiraan yang dibuat harus didasarkan pada data yang tersedia secara akurat dan bebas dari unsur-unsur penipuan. Ketentuan ini bersinggungan langsung dengan masalah overclaiming pada branding Autopilot dan FSD kesan publik lebih meyakinkan daripada kemampuan sistem sebenarnya.
   Bagian dari kode etik ini menekankan betapa pentingnya untuk tetap terbuka untuk kritik teknis dan mengakui kekeliruan. Dalam hal respons Tesla terhadap penyelidikan NHTSA, perbaikan sistem yang baru dilakukan setelah tekanan regulator menunjukkan bahwa proses evaluasi diri belum sepenuhnya berjalan sejak awal dan lebih banyak dipengaruhi oleh faktor eksternal.
 
-## Pasal yang relevan
+## 6.3 Pasal yang relevan
   Beberapa poin dari kedua kode etik ini dapat diterapkan dalam situasi ini. Hal-hal seperti penghindaran bahaya dan kejujuran dalam menyampaikan klaim kemampuan sistem menjadi rujukan utama untuk menilai masalah penamaan fitur dan potensi risiko yang muncul darinya, menurut ACM.
   IEEE mengatakan bahwa pilihan untuk pengembangan dan pemasaran Autopilot didasarkan pada hal-hal seperti mengutamakan keselamatan publik daripada hal-hal lain. Kedua kode etik ini berasal dari organisasi yang berbeda, tetapi prinsip dasar yang sama menempatkan keselamatan dan kejujuran di atas kepentingan bisnis, terutama untuk sistem keselamatan seperti ini.
 
-## Analisis pelanggaran/kepatuhan
+## 6.4 Analisis pelanggaran/kepatuhan
   Dari perspektif kepatuhan, Tesla telah mengikuti prinsip kode etik dengan menyempurnakan sistem Tesla Vision dan melakukan penarikan kembali melalui pembaruan perangkat lunak pada akhir 2023. Tindakan ini dapat dianggap sebagai bukti kesediaan Tesla untuk menilai dan memperbaiki kesalahan yang ada.
   Sebaliknya, beberapa tindakan cukup jelas menyimpang dari prinsip yang sudah disebutkan sebelumnya. Menurut ACM dan IEEE, prinsip kejujuran dan larangan klaim palsu dapat bertentangan dengan penggunaan nama "Full Self-Driving" untuk sistem yang masih dianggap sebagai Level 2. Fakta bahwa perbaikan besar terjadi hanya karena tekanan investigasi NHTSA, bukan karena tindakan pencegahan, menunjukkan bahwa prinsip keselamatan publik belum sepenuhnya dimasukkan ke dalam proses pengembangan sejak awal.
   Dengan kata lain, pola menunjukkan bahwa kepatuhan terhadap kode etik lebih sering muncul sebagai hasil dari dorongan dari luar daripada telah menjadi budaya kerja sejak awal pengembangan.
 
-...
 
 ---
 
