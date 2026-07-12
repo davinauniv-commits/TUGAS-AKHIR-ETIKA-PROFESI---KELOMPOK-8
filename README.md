@@ -568,7 +568,7 @@ Regulator juga perlu memperjelas pembagian tanggung jawab hukum antara produsen,
 
 ---
 
-# BAB XII - Kesimpulan
+# BAB XII — Kesimpulan
 Berdasarkan hasil investigasi dan analisis yang telah dilakukan, dapat disimpulkan bahwa kasus kecelakaan Tesla Autopilot/Full Self-Driving (FSD) bukan hanya disebabkan oleh faktor teknologi, tetapi juga dipengaruhi oleh aspek etika profesi, tata kelola perusahaan, perilaku pengguna, serta efektivitas regulasi. Penggunaan sistem bantuan mengemudi berbasis kecerdasan buatan harus disertai dengan tanggung jawab yang besar dari seluruh pihak yang terlibat.
 Dari perspektif etika profesi, pengembang perangkat lunak berkewajiban mengutamakan keselamatan publik, bersikap jujur mengenai kemampuan sistem, serta terus melakukan evaluasi dan perbaikan terhadap teknologi yang dikembangkan. Perusahaan harus mengedepankan transparansi, menerapkan budaya keselamatan, dan memastikan setiap inovasi telah memenuhi standar kualitas sebelum dipasarkan. Di sisi lain, regulator perlu menghadirkan kebijakan yang adaptif terhadap perkembangan teknologi sekaligus memperkuat pengawasan terhadap implementasi kendaraan semi-otonom.
 Melalui penerapan prinsip etika profesi, manajemen risiko berdasarkan ISO 31000, kepatuhan terhadap kode etik profesional, serta regulasi yang memadai, diharapkan pengembangan teknologi kendaraan otonom dapat berlangsung secara lebih aman, bertanggung jawab, dan memberikan manfaat yang optimal bagi masyarakat tanpa mengabaikan aspek keselamatan manusia.
