@@ -51,17 +51,11 @@
 > **Status:** Unlisted (hanya dapat diakses melalui tautan).
 ---
 
-#  Deskripsi
-
-Repository ini berisi laporan analisis mengenai kasus **Tesla Autopilot dan Full Self-Driving (FSD)** berdasarkan perspektif Etika Profesi Teknologi Informasi.
-Analisis dilakukan menggunakan teori etika, kode etik profesi ACM dan IEEE, nilai-nilai Pancasila, regulasi hukum, serta manajemen risiko ISO 31000.
-
----
-
 # Daftar Isi
 
 - [ Anggota Kelompok](#-anggota-kelompok)
-- [ Tujuan](#-tujuan)
+- [ Pemetaan Sub-CPMK](#-pemetaan-sub-cpmk)
+- [ Video Presentasi](#-video-presentasi)
 - [ BAB I – Pendahuluan](#-bab-i--pendahuluan)
 - [ BAB II – Kronologi Kasus](#-bab-ii--kronologi-kasus)
 - [ BAB III – Analisis Stakeholder](#-bab-iii--analisis-stakeholder)
@@ -73,22 +67,7 @@ Analisis dilakukan menggunakan teori etika, kode etik profesi ACM dan IEEE, nila
 - [ BAB IX – Manajemen Risiko dan Opsi 4T](#-bab-ix--manajemen-risiko-dan-opsi-4t)
 - [ BAB X – Dampak dan Kontrol Preventif](#-bab-x--dampak-dan-kontrol-preventif)
 - [ BAB XI – Pelajaran Utama](#-bab-xi--pelajaran-utama)
-- [ Pemetaan Sub-CPMK](#-pemetaan-sub-cpmk)
-- [ Video Presentasi](#-video-presentasi)
 - [ Daftar Pustaka](#-daftar-pustaka)
-  
----
-
-# Tujuan
-
-- Menganalisis kasus Tesla Autopilot berdasarkan etika profesi.
-- Mengidentifikasi stakeholder yang terlibat.
-- Mengkaji kasus menggunakan teori etika.
-- Menganalisis penerapan nilai Pancasila.
-- Mengevaluasi kepatuhan terhadap ACM dan IEEE Code of Ethics.
-- Mengkaji aspek hukum dan regulasi.
-- Menyusun analisis risiko menggunakan ISO 31000.
-- Memberikan rekomendasi teknis dan etis.
 
 ---
 
