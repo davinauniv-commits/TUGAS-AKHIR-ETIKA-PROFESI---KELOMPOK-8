@@ -295,21 +295,53 @@ IEEE juga mengatakan bahwa setiap klaim atau perkiraan yang dibuat harus didasar
 
 # BAB VII — Regulasi dan Hukum
 
-- Regulasi NHTSA
-- Regulasi Kendaraan Otonom
-- Product Liability
-- Tanggung Jawab Hukum
-- Perbedaan Hukum dan Moral
+## 7.1 Regulasi NHTSA
+NHTSA merupakan lembaga pemerintah di Amerika Serikat yang bertugas mengawasi keselamatan jalan raya dan memiliki wewenang untuk menarik kendaraan dari pasaran apabila terbukti berbahaya. Dalam kasus Tesla, NHTSA memainkan peran krusial karena lembaga inilah yang menemukan bahwa fitur Autopilot sering disalahgunakan oleh pengemudi akibat promosi yang berlebihan. Berdasarkan aturan keselamatan yang berlaku, NHTSA mewajibkan setiap produsen mobil untuk memasang sistem pemantau pengemudi agar pengemudi tidak lepas tangan saat fitur otomatis aktif.
 
----
+Investigasi NHTSA berjalan semakin ketat setelah maraknya kecelakaan fatal, terutama saat kendaraan Tesla menabrak kendaraan darurat seperti pemadam kebakaran atau ambulans yang berhenti di bahu jalan pada malam hari. Mengingat aturan keselamatan publik tidak boleh dikompromikan, NHTSA memaksa Tesla untuk melakukan *recall* atau penarikan massal pada akhir tahun 2023 melalui pembaruan perangkat lunak. Langkah ini diambil untuk memperketat sistem peringatan agar pengemudi tetap fokus. Investigasi yang masih berlanjut hingga saat ini membuktikan bahwa teknologi AI pada kendaraan tidak bisa dilepas begitu saja ke jalan raya tanpa pengawasan ketat dari aturan hukum pemerintah.
+
+## 7.2 Regulasi Kendaraan Otonom
+Aturan mengenai mobil yang dapat berjalan sendiri mengacu pada standar SAE (*Society of Automotive Engineers*). Standar ini membagi tingkatan mobil otomatis dari Level 0 hingga Level 5. Jika mobil masih masuk dalam kategori Level 1 atau Level 2, secara hukum tanggung jawab penuh atas pengendalian kendaraan tetap berada di tangan pengemudi manusia; sistem komputer hanya bersifat membantu dan tidak menggantikan peran manusia sepenuhnya.
+
+Permasalahannya, fitur Autopilot dan *Full Self-Driving* (FSD) buatan Tesla saat ini masih berada pada Level 2. Secara aturan hukum, pengemudi wajib memegang setir dan mengawasi jalanan setiap saat. Namun, di lapangan, Tesla menggunakan nama "Full Self-Driving" yang mengesankan kemampuan menyetir secara penuh. Penamaan ini menabrak batas aturan yang ada karena dapat membuat konsumen salah paham dan mengira bahwa mobil mereka sudah legal untuk berjalan sendiri tanpa perlu diawasi.
+
+## 7.3 Tanggung Jawab Hukum Tesla
+Sebagai perusahaan besar, Tesla terikat dengan hukum *Product Liability* (tanggung jawab atas keamanan produk yang dijual). Produsen dapat dituntut ke pengadilan jika produknya terbukti cacat secara desain, cacat produksi, atau salah dalam memberikan informasi pemasaran. Karena Tesla merilis fitur dengan sistem pemantau pengemudi yang dianggap lemah, posisi hukum Tesla menjadi sangat rentan karena dianggap lalai dalam menjaga keselamatan konsumen.
+
+Tesla memang mencoba memberikan *disclaimer* tertulis di buku panduan bahwa pengemudi harus selalu siap mengambil alih setir. Namun, fakta bahwa mereka dipaksa melakukan *recall* oleh NHTSA menunjukkan bahwa *disclaimer* saja tidak cukup untuk menghapus tanggung jawab hukum perusahaan. Jika kecelakaan terjadi karena sistem kamera Tesla Vision gagal mendeteksi objek saat cuaca buruk, Tesla secara hukum korporasi tetap dapat digugat atas kerugian fisik maupun hilangnya nyawa para korban.
+
+## 7.4 Perbedaan Tanggung Jawab Hukum dan Moral
+Kasus Tesla Autopilot memberikan gambaran jelas bahwa apa yang aman secara hukum belum tentu benar secara moral. Tanggung jawab hukum bersifat tertulis, kaku, dan ditegakkan oleh pengadilan atau lembaga pemerintah. Selama Tesla mematuhi perintah *recall*, membayar denda, dan membuat peringatan di layar, secara hukum formal mereka bisa dibilang telah memenuhi kewajiban.
+
+Namun, tanggung jawab moral memiliki standar yang jauh lebih tinggi karena berlandaskan pada hati nurani dan etika profesi. Sebagai pengembang teknologi, insinyur perangkat lunak dan manajemen Tesla memiliki tanggung jawab moral untuk menjaga nyawa manusia di atas segalanya. Sengaja menggunakan nama fitur yang memicu salah paham demi mengejar target penjualan produk merupakan pelanggaran etika profesi, karena mereka sadar bahwa ada risiko nyawa orang lain yang dipertaruhkan di jalan raya demi keuntungan bisnis sepihak.
+
 
 # BAB VIII — Integritas dan Anti Korupsi
 
-- Penyalahgunaan Kepercayaan
-- Overclaim Sistem
-- Konflik Kepentingan
-- Integritas Engineer
-- Analisis Anti Korupsi
+## 8.1 Penyalahgunaan Kepercayaan
+Penyalahgunaan kepercayaan dalam dunia profesional IT terjadi ketika sebuah perusahaan atau pengembang tidak menjaga amanah yang diberikan oleh konsumen. Dalam kasus ini, konsumen membeli mobil Tesla dengan harga mahal karena percaya pada reputasi teknologi yang ditawarkan. Konsumen menaruh kepercayaan penuh bahwa sistem komputer di dalam kendaraan tersebut bisa menjaga keselamatan mereka selama di perjalanan.
+
+Namun, Tesla justru memanfaatkan kepercayaan tersebut demi keuntungan bisnis sepihak. Mereka merilis fitur yang sebenarnya belum siap seratus persen untuk menghadapi situasi jalanan yang kompleks. Tindakan melempar produk *safety-critical* yang masih tidak konsisten dalam mendeteksi objek di malam hari merupakan bentuk nyata dari penyalahgunaan kepercayaan publik. Pihak manajemen lebih memilih menjaga citra perusahaan sebagai pemimpin teknologi daripada menjaga keselamatan konsumen yang sudah memercayai produk mereka.
+
+## 8.2 Overclaim Kemampuan Sistem
+*Overclaim* atau melebih-lebihkan kemampuan sistem adalah akar masalah utama dalam kasus Autopilot dan FSD. Berdasarkan data teknis, sistem kemudi otomatis Tesla masih diklasifikasikan sebagai otomatisasi Level 2 menurut standar SAE. Artinya, sistem ini hanya berfungsi sebagai asisten pengemudi, dan manusia di balik setir wajib mengawasi jalanan secara penuh serta siap mengambil alih kendali kapan saja.
+
+Pelanggaran integritas terjadi ketika Tesla dengan sengaja memakai nama "Full Self-Driving" untuk sistem Level 2 tersebut. Penamaan yang bombastis ini menciptakan persepsi salah di mata masyarakat, seolah-olah mobil bisa berjalan sendiri tanpa perlu diawasi lagi. Strategi pemasaran yang tidak jujur ini sengaja mengaburkan batasan teknis asli produk demi daya tarik jualan, yang akhirnya malah membuat pengemudi lengah dan memicu rentetan kecelakaan fatal di jalan raya.
+
+## 8.3 Konflik Kepentingan
+Konflik kepentingan dalam kasus Tesla terlihat jelas dari benturan antara keuntungan finansial perusahaan dengan keselamatan masyarakat luas. Sebagai korporasi, Tesla memiliki kepentingan bisnis untuk terus menaikkan harga saham, memuaskan para investor, dan memenangkan persaingan pasar kendaraan listrik. Untuk mencapai target tersebut, cara tercepat yang diambil adalah dengan terus menunjukkan inovasi fitur *self-driving* terbaru kepada publik.
+
+Di sisi lain, terdapat kepentingan publik yang jauh lebih penting, yaitu hak atas keselamatan di jalan raya. Ketika Tesla memaksakan perilisan fitur beta ke ruang publik tanpa pengujian kondisi ekstrem yang matang, mereka terbukti lebih mengutamakan keuntungan bisnis privat daripada keamanan publik. Konflik kepentingan yang tidak dikelola dengan jujur ini akhirnya mengorbankan nyawa pengguna jalan demi target finansial perusahaan semata.
+
+## 8.4 Integritas Engineer
+Bagian ini menyoroti posisi para insinyur perangkat lunak (*software engineer*) yang merancang sistem di Tesla. Sebagai profesional TI yang terikat kode etik, seorang *engineer* memiliki kewajiban moral untuk mengutamakan keselamatan publik dan berani jujur soal keterbatasan sistem yang mereka buat. Integritas mereka diuji ketika terdapat tekanan dari manajemen untuk segera merilis fitur yang secara algoritma masih memiliki celah eror.
+
+Dalam lingkungan kerja yang mengejar kecepatan inovasi, integritas *engineer* sering kali terancam kalah oleh tuntutan korporasi. Sikap Tesla yang baru membenahi sistem pengawasan setelah ditegur NHTSA menunjukkan bahwa para insinyurnya mungkin kurang memiliki posisi kuat atau keberanian moral untuk menolak perintah merilis fitur yang bias. Padahal, integritas seorang *engineer* dipertaruhkan penuh ketika mereka membiarkan perangkat lunak yang belum matang dipakai oleh jutaan orang dan berisiko mencelakai nyawa.
+
+## 8.5 Analisis Anti-Korupsi dalam Arti Luas
+Jika dilihat dalam arti luas, korupsi bukan sekadar suap atau mencuri uang negara, melainkan segala bentuk tindakan curang dan manipulasi yang merugikan orang lain demi keuntungan pribadi atau golongan. Dalam konteks pengembangan teknologi Tesla, tindakan memanipulasi informasi kemampuan produk dan mengabaikan standar keselamatan demi menaikkan nilai saham dapat dikategorikan sebagai tindakan koruptif terhadap integritas profesi.
+
+Tesla menikmati keuntungan finansial dan reputasi yang sangat besar dari klaim teknologi otonom mereka, sementara risiko kegagalannya dibebankan langsung ke masyarakat di jalan raya. Distribusi keuntungan dan risiko yang timpang akibat manipulasi informasi ini adalah inti dari perilaku koruptif di dunia industri teknologi. Menjual produk cacat dengan narasi palsu yang mengorbankan keselamatan publik demi profit kelompok jelas bertentangan dengan semangat anti-korupsi dan nilai moral.
 
 ---
 
